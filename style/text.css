@@ -16,6 +16,8 @@
     /* margin-bottom:24px; */
     margin:16px 64px 24px 60px;
   }
+  
+  
   .btn-primary{
     background-color:#006A50;
     font-weight: 600;
@@ -45,7 +47,7 @@
   .style{
     background-color:#C6E4D6 ;
     width:1280px ;
-    margin: 160px;
+    margin: 100px 160px 100px 160px;
     border-radius:24px;
   }
   .section-title{
